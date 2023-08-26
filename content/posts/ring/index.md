@@ -1,6 +1,6 @@
 ---
 title: "Ring: Koji Suzuki"
-date: 2023-08-26T18:24:21+03:00
+date: 2023-08-26T11:24:21+03:00
 draft: false
 ---
 
